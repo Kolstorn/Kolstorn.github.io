@@ -518,3 +518,8 @@ a {
     font-size: 6vw;
   }
 }
+@media (orientation: landscape) {
+  .heroHeader {
+  font-size: 4vw;
+  }
+}
